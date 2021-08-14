@@ -2,8 +2,8 @@
 ## Pre-requirements
 - python 2.0 or later
 - python cryptography module
-- - can be installed using the install_requirements.py file (this step requires python to be available in the enviornment)
-- - or use pip install cryptography.fernet
+  - can be installed using the install_requirements.py file (this step requires python to be available in the enviornment)
+  - or use pip install cryptography.fernet
 ## How to run
 - create a special folder for the program
 - put the python file in the folder and run *init.py* and set up the password (which can be later changed in the main program if required)
