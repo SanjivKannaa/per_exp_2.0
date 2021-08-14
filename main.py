@@ -11,13 +11,13 @@ os.system('color A')
 
 
 def encry(data):
-    key = b'fono5DWEoUUbfZZPoLoMYMcAB4fGklet9Fat1DAbZeo='
+    key = b'2tXATpqnMs7bRk6mGXjglY1fuFgrw8nW1jIBSsLjMP8='
     fernet = Fernet(key)
     return fernet.encrypt(data.encode())
 
 
 def decry(data):
-    key = b'fono5DWEoUUbfZZPoLoMYMcAB4fGklet9Fat1DAbZeo='
+    key = b'2tXATpqnMs7bRk6mGXjglY1fuFgrw8nW1jIBSsLjMP8='
     fernet = Fernet(key)
     return fernet.decrypt(data).decode()
 
