@@ -11,3 +11,4 @@
 ## Bonus
 - I would suggest you to use services like replit.com to run this program in the cloud so that you can access them on the go without your laptop!
 - thanks for using my project.
+- Feel free to contact me for any suggestions or queries on jsanjiv2003@gmail.com or on my instagram page https://www.instagram.com/sanjiv_kannaa_jeganathan/
